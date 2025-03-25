@@ -1,0 +1,6 @@
+
+	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8í•÷Å2J$67f5a499-69bd-43d4-ac20-20a2d5d3afb6
+
+java:S6201%"VReplace this instanceof check and cast with 'instanceof IControlCenter icontrolcenter'(Íƒğïùÿÿÿÿ8Œ•÷Å2J$2962d373-7a90-4ba8-b2f0-118558c9c900
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ª±­²ÿÿÿÿÿ8Œ•÷Å2J$0b25b1a1-c857-4ff8-abee-9536c2ee9597
+m	java:S106("+Replace this use of System.out by a logger.(¤êŞÖ8Œ•÷Å2J$95316f75-732f-4b16-9cfa-08bda0102724

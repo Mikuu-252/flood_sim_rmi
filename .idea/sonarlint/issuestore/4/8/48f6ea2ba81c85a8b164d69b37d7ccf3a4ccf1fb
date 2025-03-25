@@ -1,0 +1,6 @@
+
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æ×ÄãÅ2J$d158b7e8-cf6c-4529-94a7-cbed13681806
+r	java:S106"+Replace this use of System.out by a logger.(È¼Í¶üÿÿÿÿ8Ş¢ ÷Å2J$f10b049d-0e76-4756-8302-04f0ffe9f113
+m	java:S106"+Replace this use of System.out by a logger.(ÄÜÌÕ8Çí ÷Å2J$02bb679f-f574-4f19-ab39-c44d15cc0678
+~	java:S125"<This block of commented-out lines of code should be removed.(ªïó8ò×ÄãÅ2J$2b41e7c4-f007-4a0d-82a9-628b22e917ba
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Œ•õ ıÿÿÿÿ8ó×ÄãÅ2J$0dc84ac5-d45f-4355-9a48-63d984a102fb
